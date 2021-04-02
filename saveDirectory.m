@@ -30,8 +30,6 @@ else
 end
 %%
 %Copying the workfiles
-%esto es para leer pero me falta copiar los archivos al directorio de
-%trabajo para modificacion del archivo
 numArchivos=2;
 for i=1:numArchivos
     serie=num2str(i);
